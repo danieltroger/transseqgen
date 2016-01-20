@@ -498,7 +498,7 @@ Choice: 3 0
 Choice: 4 50
 ```
 
-# Shutterspeed-varying keyframes in advint, 30s to 1/15s
+# Shutterspeed-varying keyframes in advint's `SEQ.TXT`, 30s to 1/15s
 
 ```
 59238:tv=16
@@ -539,3 +539,102 @@ Choice: 4 50
 ![pic 2](https://cloud.githubusercontent.com/assets/4047180/12454794/50c89d86-bf99-11e5-8844-2f62d9d01482.JPG)
 ![pic 3](https://cloud.githubusercontent.com/assets/4047180/12454802/58c34fea-bf99-11e5-892e-7b1eb841b81d.JPG)
 ![pic 4](https://cloud.githubusercontent.com/assets/4047180/12454804/5a940170-bf99-11e5-9aff-c4a536c34652.JPG)
+
+# Put into sss.txt and `table("sss.txt");`
+-----------------------------------
+```
+Time: 16:27:18
+Tv: 24
+
+Time: 16:27:56
+Tv: 25
+
+Time: 16:28:09
+Tv: 20
+
+Time: 16:28:18
+Tv: 16
+
+Time: 16:28:33
+Tv: 12.5
+
+Time: 16:28:52
+Tv: 10
+
+Time: 16:29:15
+Tv: 8
+
+Time: 16:29:23
+Tv: 6
+
+Time: 16:29:30
+Tv: 5
+
+Time: 16:29:38
+Tv: 4
+
+Time: 16:29:43
+Tv: 3.2
+
+Time: 16:29:49
+Tv: 3
+
+Time: 16:29:57
+Tv: 2.5
+
+Time: 16:30:02
+Tv: 2
+
+Time: 16:30:07
+Tv: 1.6
+
+Time: 16:30:21
+Tv: 1.5
+
+Time: 16:30:27
+Tv: 1.3
+
+Time: 16:30:34
+Tv: 1
+
+Time: 16:30:42
+Tv: 0.8
+
+Time: 16:30:46
+Tv: 0.7
+
+Time: 16:30:50
+Tv: 0.6
+
+Time: 16:31:01
+Tv: 0.5
+
+Time: 16:31:06
+Tv: 0.4
+
+Time: 16:31:18
+Tv: 0.3
+
+Time: 16:31:43
+Tv: 1/4
+
+Time: 16:32:12
+Tv: 1/5
+
+Time: 16:37:04
+Tv: 1/6
+
+Time: 16:37:16
+Tv: 1/8
+
+Time: 16:37:22
+Tv: 1/10
+
+Time: 16:37:29
+Tv: 1/13
+
+Time: 16:37:41
+Tv: 1/15
+```
+
+:smile: works!
