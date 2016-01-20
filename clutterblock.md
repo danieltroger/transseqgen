@@ -533,3 +533,9 @@ Choice: 4 50
 59849:tv=85
 59861:tv=88
 ```
+##### How they show up under __*list keyframes*__
+
+![pic 1](https://cloud.githubusercontent.com/assets/4047180/12454764/2a3ec8b6-bf99-11e5-8ef2-0835678252c4.JPG)
+![pic 2](https://cloud.githubusercontent.com/assets/4047180/12454794/50c89d86-bf99-11e5-8844-2f62d9d01482.JPG)
+![pic 3](https://cloud.githubusercontent.com/assets/4047180/12454802/58c34fea-bf99-11e5-892e-7b1eb841b81d.JPG)
+![pic 4](https://cloud.githubusercontent.com/assets/4047180/12454804/5a940170-bf99-11e5-9aff-c4a536c34652.JPG)
